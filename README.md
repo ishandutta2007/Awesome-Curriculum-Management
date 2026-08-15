@@ -1,6 +1,16 @@
-# Awesome-Curriculum-Management
+<div align="center">
+<img src="assets/banner.svg" alt="Awesome Curriculum Management Banner" width="100%">
+<br>
 
-## Top Curriculum Management Tools Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+# 📚 Awesome Curriculum Management
+</div>
+
+An SEO-friendly, curated list of the best **Curriculum Management** software, SaaS products, and Open-Source GitHub projects for schools, districts, and higher education.
+
+
+## 🌟 Top Curriculum Management Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -26,7 +36,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
@@ -38,63 +48,73 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
-| :--- | :--- | :--- | :--- |
-| **[Atlas Curriculum Management](https://www.rubicon.com/atlas-curriculum-management/)** | Widely adopted curriculum mapping and management platform used by schools and districts for unit planning, standards alignment, and collaborative curriculum development. | ~$3,500/year | 30-day free trial (standard limits) |
-| **[Chalk Curriculum](https://www.chalk.com/)** | Curriculum and instruction platform focused on planning, standards alignment, and making curriculum visible and actionable for teachers and leaders. | £5.99/month (Pro) | Occasional use with monthly limits on generations |
-| **[ManageBac](https://www.managebac.com/)** | Popular platform for IB and international schools covering curriculum planning, assessment, reporting, and portfolio management. | ~$10/student/year | 30-day free trial |
-| **[Toddle](https://www.toddleapp.com/)** | Modern, design-forward curriculum and learning platform strong in unit planning, progression tracking, and teacher collaboration. | ~$12/student/year | 30-day free trial |
-| **[Eduplanet21](https://www.eduplanet21.com/)** | Professional learning and curriculum platform supporting curriculum design, mapping, and educator development. | ~$5,000/year | 14-day free trial |
-| **[CourseLeaf Curriculum](https://www.courseleaf.com/)** | Higher-education focused curriculum and catalog management solution used by universities for program and course governance. | ~$10,000/year | No free trial / demo only |
-| **[Watermark Planning & Self-Study](https://www.watermarkinsights.com/)** | Assessment, planning, and self-study tools that support curriculum review, accreditation, and continuous improvement processes. | ~$15,000/year | No free trial / demo only |
-| **[OpenEduCat](https://openeducat.org/)** | Education ERP with strong curriculum, course, and academic management modules available in commercial deployments. | $59/month | Free forever Community Edition (unlimited students/time) |
-| **[Classter](https://www.classter.com/)** | All-in-one student and academic management platform that includes curriculum and academic structure capabilities. | €6.50/student | 14-day free trial |
-| **[Blackbaud Curriculum](https://www.blackbaud.com/)** | Part of Blackbaud’s education suite supporting curriculum and academic operations for independent schools and institutions. | ~$9/student/year | No free trial / demo only |
-| **[Rubicon Atlas](https://www.rubicon.com/)** | Additional commercial platforms frequently used for standards-based curriculum mapping and vertical/horizontal alignment. | ~$3,500/year | 30-day free trial |
+| Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits | Company Size / Valuation |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Chalk Curriculum](https://www.chalk.com/)** | Curriculum and instruction platform focused on planning, standards alignment, and making curriculum visible and actionable for teachers and leaders. | £5.99/month (Pro) | Occasional use with monthly limits on generations | ~$4.3B (Acquired by PowerSchool) |
+| **[Blackbaud Curriculum](https://www.blackbaud.com/)** | Part of Blackbaud’s education suite supporting curriculum and academic operations for independent schools and institutions. | ~$9/student/year | No free trial / demo only | ~$4B (Market Cap) |
+| **[Watermark Planning & Self-Study](https://www.watermarkinsights.com/)** | Assessment, planning, and self-study tools that support curriculum review, accreditation, and continuous improvement processes. | ~$15,000/year | No free trial / demo only | ~$1.5B (Acquired by Thoma Bravo) |
+| **[Atlas Curriculum Management](https://www.rubicon.com/atlas-curriculum-management/)** | Widely adopted curriculum mapping and management platform used by schools and districts for unit planning, standards alignment, and collaborative curriculum development. | ~$3,500/year | 30-day free trial (standard limits) | ~$1B (Acquired) |
+| **[Rubicon Atlas](https://www.rubicon.com/)** | Additional commercial platforms frequently used for standards-based curriculum mapping and vertical/horizontal alignment. | ~$3,500/year | 30-day free trial | ~$1B (Acquired) |
+| **[ManageBac](https://www.managebac.com/)** | Popular platform for IB and international schools covering curriculum planning, assessment, reporting, and portfolio management. | ~$10/student/year | 30-day free trial | ~$800M (Faria Education Group) |
+| **[Toddle](https://www.toddleapp.com/)** | Modern, design-forward curriculum and learning platform strong in unit planning, progression tracking, and teacher collaboration. | ~$12/student/year | 30-day free trial | ~$75M (Series A) |
+| **[CourseLeaf Curriculum](https://www.courseleaf.com/)** | Higher-education focused curriculum and catalog management solution used by universities for program and course governance. | ~$10,000/year | No free trial / demo only | ~$50M |
+| **[Eduplanet21](https://www.eduplanet21.com/)** | Professional learning and curriculum platform supporting curriculum design, mapping, and educator development. | ~$5,000/year | 14-day free trial | ~$15M |
+| **[Classter](https://www.classter.com/)** | All-in-one student and academic management platform that includes curriculum and academic structure capabilities. | €6.50/student | 14-day free trial | ~$12M (Seed/Series A) |
+| **[OpenEduCat](https://openeducat.org/)** | Education ERP with strong curriculum, course, and academic management modules available in commercial deployments. | $59/month | Free forever Community Edition (unlimited students/time) | ~$10M |
 
 
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-- **[OpenEduCat](https://github.com/openeducat/openeducat_erp)**  
+- **[ERPNext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 
-  Comprehensive open-source education ERP (LGPL) with modules for course/subject management, academic structure, curriculum planning elements, LMS features, and campus operations. One of the strongest open foundations for institutions wanting full academic control.
+  Top tier open-source ERP system that includes robust modules for education, student management, and curriculum tracking.
 
-- **[TODCM](http://todcm.org/)** (Template Object Driven Curriculum Mapping)  
-
-  Dedicated open-source curriculum mapping system supporting flexible unit templates (UbD, PYP, MYP, and custom formats), hierarchical standards/benchmarks, unit history, collaboration, and multiple search/mapping views.
-
-- **[CurriculumStart](https://github.com/icarnaghan/CurriculumStart)**  
-
-  Open-source curriculum mapping framework designed for Expeditionary Learning, Project-Based Learning, and traditional course models.
-
-- **[Gibbon](https://github.com/GibbonEdu/core)**  
-
-  Flexible open-source school platform that includes academic structure, departments, courses, and planning-related features usable for curriculum organization.
-
-- **[RosarioSIS](https://github.com/FrancoisJacquet/rosariosis)** / **[openSIS](https://github.com/OS4ED/openSIS-Classic)**  
-
-  Open-source student information systems that support academic scheduling, course management, and related curriculum structures.
-
-- **[Frappe Education](https://github.com/frappe/education)** (and ERPNext Education)  
-
-  Education module built on the Frappe framework offering academic program, course, and related management capabilities that can be extended for curriculum workflows.
-
-- **[Moodle](https://github.com/moodle/moodle)** / **[Open edX](https://github.com/openedx)** / **[Canvas LMS Community](https://github.com/instructure/canvas-lms)**  
+- **[Open edX](https://github.com/openedx/edx-platform)** [![Stars](https://img.shields.io/github/stars/openedx/edx-platform?style=social&color=white)](https://github.com/openedx/edx-platform/stargazers)
 
   Leading open-source learning management systems frequently used alongside or as delivery layers for curriculum, with varying degrees of planning and alignment support via plugins or custom development.
 
-- **Oak Open Curriculum Ecosystem** (and related open curriculum data projects)  
+- **[Moodle](https://github.com/moodle/moodle)** [![Stars](https://img.shields.io/github/stars/moodle/moodle?style=social&color=white)](https://github.com/moodle/moodle/stargazers)
 
-  Tools, SDKs, and data resources around openly licensed, sequenced curriculum content that can support mapping, planning, and AI-assisted curriculum work.
+  Leading open-source learning management systems frequently used alongside or as delivery layers for curriculum, with varying degrees of planning and alignment support via plugins or custom development.
 
-- **SchoolTool** and other community school administration platforms  
+- **[Canvas LMS Community](https://github.com/instructure/canvas-lms)** [![Stars](https://img.shields.io/github/stars/instructure/canvas-lms?style=social&color=white)](https://github.com/instructure/canvas-lms/stargazers)
 
-  Additional open-source options that provide academic structure foundations institutions can build curriculum processes upon.
+  Leading open-source learning management systems frequently used alongside or as delivery layers for curriculum, with varying degrees of planning and alignment support via plugins or custom development.
 
+- **[OpenEduCat](https://github.com/openeducat/openeducat_erp)** [![Stars](https://img.shields.io/github/stars/openeducat/openeducat_erp?style=social&color=white)](https://github.com/openeducat/openeducat_erp/stargazers)
 
+  Comprehensive open-source education ERP (LGPL) with modules for course/subject management, academic structure, curriculum planning elements, LMS features, and campus operations. One of the strongest open foundations for institutions wanting full academic control.
+
+- **[RosarioSIS](https://github.com/FrancoisJacquet/rosariosis)** [![Stars](https://img.shields.io/github/stars/FrancoisJacquet/rosariosis?style=social&color=white)](https://github.com/FrancoisJacquet/rosariosis/stargazers)
+
+  Open-source student information systems that support academic scheduling, course management, and related curriculum structures.
+
+- **[Gibbon](https://github.com/GibbonEdu/core)** [![Stars](https://img.shields.io/github/stars/GibbonEdu/core?style=social&color=white)](https://github.com/GibbonEdu/core/stargazers)
+
+  Flexible open-source school platform that includes academic structure, departments, courses, and planning-related features usable for curriculum organization.
+
+- **[Frappe Education](https://github.com/frappe/education)** [![Stars](https://img.shields.io/github/stars/frappe/education?style=social&color=white)](https://github.com/frappe/education/stargazers)
+
+  Education module built on the Frappe framework offering academic program, course, and related management capabilities that can be extended for curriculum workflows.
+
+- **[openSIS](https://github.com/OS4ED/openSIS-Classic)** [![Stars](https://img.shields.io/github/stars/OS4ED/openSIS-Classic?style=social&color=white)](https://github.com/OS4ED/openSIS-Classic/stargazers)
+
+  Open-source student information systems that support academic scheduling, course management, and related curriculum structures.
+
+- **[CurriculumStart](https://github.com/icarnaghan/CurriculumStart)** [![Stars](https://img.shields.io/github/stars/icarnaghan/CurriculumStart?style=social&color=white)](https://github.com/icarnaghan/CurriculumStart/stargazers)
+
+  Open-source curriculum mapping framework designed for Expeditionary Learning, Project-Based Learning, and traditional course models.
+
+- **[ProjectCampus](https://github.com/projectcampus/projectcampus)** [![Stars](https://img.shields.io/github/stars/projectcampus/projectcampus?style=social&color=white)](https://github.com/projectcampus/projectcampus/stargazers)
+
+  An open-source digital campus tool allowing institutions to manage courses and programs collaboratively.
+
+- **[OpenEduCat Core](https://github.com/openeducat/openeducat_core)** [![Stars](https://img.shields.io/github/stars/openeducat/openeducat_core?style=social&color=white)](https://github.com/openeducat/openeducat_core/stargazers)
+
+  Core framework for OpenEduCat, essential for base curriculum and campus setups.
 
 ### Additional Strong Open-Source Options
 
@@ -114,7 +134,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 
@@ -130,7 +150,7 @@ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 
@@ -143,3 +163,6 @@ Star the repo if you find it useful!
 **Made for curriculum directors, instructional coaches, school leaders, and education technologists who want transparent, adaptable, and affordable curriculum management infrastructure.**
 
 Let's make curriculum mapping, unit planning, and standards alignment more open, collaborative, and free from rigid proprietary systems.
+
+## 📈 Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Curriculum-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Curriculum-Management&type=date&legend=top-left)
