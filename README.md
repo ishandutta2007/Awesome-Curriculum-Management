@@ -40,49 +40,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Atlas Curriculum Management](https://www.rubicon.com/atlas-curriculum-management/)** (Rubicon)  
-
-  Widely adopted curriculum mapping and management platform used by schools and districts for unit planning, standards alignment, and collaborative curriculum development.
-
-- **[Chalk Curriculum](https://www.chalk.com/)**  
-
-  Curriculum and instruction platform focused on planning, standards alignment, and making curriculum visible and actionable for teachers and leaders.
-
-- **[ManageBac](https://www.managebac.com/)**  
-
-  Popular platform for IB and international schools covering curriculum planning, assessment, reporting, and portfolio management.
-
-- **[Toddle](https://www.toddleapp.com/)**  
-
-  Modern, design-forward curriculum and learning platform strong in unit planning, progression tracking, and teacher collaboration (especially popular in progressive and international schools).
-
-- **[Eduplanet21](https://www.eduplanet21.com/)**  
-
-  Professional learning and curriculum platform supporting curriculum design, mapping, and educator development.
-
-- **[CourseLeaf Curriculum](https://www.courseleaf.com/)**  
-
-  Higher-education focused curriculum and catalog management solution used by universities for program and course governance.
-
-- **[Watermark Planning & Self-Study](https://www.watermarkinsights.com/)**  
-
-  Assessment, planning, and self-study tools that support curriculum review, accreditation, and continuous improvement processes.
-
-- **[OpenEduCat](https://openeducat.org/)** (Enterprise / Cloud offerings)  
-
-  Education ERP with strong curriculum, course, and academic management modules available in commercial deployments.
-
-- **[Classter](https://www.classter.com/)**  
-
-  All-in-one student and academic management platform that includes curriculum and academic structure capabilities.
-
-- **[Blackbaud Curriculum](https://www.blackbaud.com/)** (and related academic solutions)  
-
-  Part of Blackbaud’s education suite supporting curriculum and academic operations for independent schools and institutions.
-
-- **[Rubicon Atlas](https://www.rubicon.com/)** / other established mapping tools  
-
-  Additional commercial platforms frequently used for standards-based curriculum mapping and vertical/horizontal alignment.
+| Product | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Atlas Curriculum Management](https://www.rubicon.com/atlas-curriculum-management/)** | Widely adopted curriculum mapping and management platform used by schools and districts for unit planning, standards alignment, and collaborative curriculum development. | ~$3,500/year | 30-day free trial (standard limits) |
+| **[Chalk Curriculum](https://www.chalk.com/)** | Curriculum and instruction platform focused on planning, standards alignment, and making curriculum visible and actionable for teachers and leaders. | £5.99/month (Pro) | Occasional use with monthly limits on generations |
+| **[ManageBac](https://www.managebac.com/)** | Popular platform for IB and international schools covering curriculum planning, assessment, reporting, and portfolio management. | ~$10/student/year | 30-day free trial |
+| **[Toddle](https://www.toddleapp.com/)** | Modern, design-forward curriculum and learning platform strong in unit planning, progression tracking, and teacher collaboration. | ~$12/student/year | 30-day free trial |
+| **[Eduplanet21](https://www.eduplanet21.com/)** | Professional learning and curriculum platform supporting curriculum design, mapping, and educator development. | ~$5,000/year | 14-day free trial |
+| **[CourseLeaf Curriculum](https://www.courseleaf.com/)** | Higher-education focused curriculum and catalog management solution used by universities for program and course governance. | ~$10,000/year | No free trial / demo only |
+| **[Watermark Planning & Self-Study](https://www.watermarkinsights.com/)** | Assessment, planning, and self-study tools that support curriculum review, accreditation, and continuous improvement processes. | ~$15,000/year | No free trial / demo only |
+| **[OpenEduCat](https://openeducat.org/)** | Education ERP with strong curriculum, course, and academic management modules available in commercial deployments. | $59/month | Free forever Community Edition (unlimited students/time) |
+| **[Classter](https://www.classter.com/)** | All-in-one student and academic management platform that includes curriculum and academic structure capabilities. | €6.50/student | 14-day free trial |
+| **[Blackbaud Curriculum](https://www.blackbaud.com/)** | Part of Blackbaud’s education suite supporting curriculum and academic operations for independent schools and institutions. | ~$9/student/year | No free trial / demo only |
+| **[Rubicon Atlas](https://www.rubicon.com/)** | Additional commercial platforms frequently used for standards-based curriculum mapping and vertical/horizontal alignment. | ~$3,500/year | 30-day free trial |
 
 
 
